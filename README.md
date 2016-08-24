@@ -1,3 +1,6 @@
+
+![](https://github.com/brainHaert/NSMutableAttributedString-XZCategory-/blob/master/textAtt.png)
+
 # NSMutableAttributedString-XZCategory-富文本的简单封装
 封装为了更方便，因为我自己都不知道会不会记得那个name
 NSMutableAttributedString+XZCategory.h
