@@ -1,11 +1,10 @@
 
-![](https://raw.githubusercontent.com/brainHaert/NSMutableAttributedString-XZCategory-/master/textAtt1.png)
-
 # NSMutableAttributedString-XZCategory-富文本的简单封装
-封装为了更方便，因为我自己都不知道会不会记得那个name
-`NSMutableAttributedString+XZCategory.h`
-`NSMutableAttributedString+XZCategory.m`
-以上两个文件拖进项目里，在想用的地方`#import "NSMutableAttributedString+XZCategory.h"`
+######最下面有图<br>
+封装为了更方便，因为我自己都不知道会不会记得那个name<br>
+`NSMutableAttributedString+XZCategory.h`<br>
+`NSMutableAttributedString+XZCategory.m`<br>
+以上两个文件拖进项目里，在想用的地方`#import "NSMutableAttributedString+XZCategory.h"`<br>
 即可
 
 项目内有不少的中文注释，无需担心
@@ -46,4 +45,6 @@
 /**根据位置加中划线*/
 `-(NSRange)changeStrikethroughFrom:(NSInteger)loc legth:(NSInteger)legth;`
 /**全部加中划线*/
-`-(void)changeStrikethroughAtAll;`
+`-(void)changeStrikethroughAtAll;`<br>
+
+![](https://raw.githubusercontent.com/brainHaert/NSMutableAttributedString-XZCategory-/master/textAtt1.png)
